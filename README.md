@@ -1,7 +1,6 @@
 descriptions = [
-  {"pronouns": ["she","her"]},
   
-  {"code": ["Python", "Java","Django" "HTML", "CSS"]},
+  {"code": ["Python", "HTML", "CSS"]},
   
   {"student": "Titu Maiorescu University"
   
