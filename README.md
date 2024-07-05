@@ -1,6 +1,8 @@
 descriptions = [
   
   {"code": ["Python", "HTML", "CSS"]},
+
+  {"misc": ["Pandas", "Turtle", "NumPy", "Tkinter"]}
   
   {"student": "Titu Maiorescu University"
   
